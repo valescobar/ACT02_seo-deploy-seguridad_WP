@@ -1,3 +1,4 @@
+#-------->  Link a sitio en servidor http://186.64.118.50/~fev1vescobar/
 # Deploy, SEO, y seguridad - Wordpress
 
 ## Deploy y seguridad en página empresa Kleaner
